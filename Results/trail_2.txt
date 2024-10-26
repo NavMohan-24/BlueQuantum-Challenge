@@ -1,0 +1,9 @@
+Circuit Creation Successful...
+Circuit Cutting Completed...
+Circuit Simulation Started ...
+Circuit Simulation Completed
+State of Maximum Probability: 001000110100100111101001101111
+Total Execution Time: 1741.17 seconds
+
+num_cuts = 2
+num_samples = 30
